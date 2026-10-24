@@ -1,0 +1,12 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.env
+backend/data/*.db
+*.pyc
+.DS_Store
+# YOLO model weights and generated inference output
+*.pt
+runs/
